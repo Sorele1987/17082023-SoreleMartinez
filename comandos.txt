@@ -29,3 +29,8 @@ mv main.js resumenHardware.txt
 mv index.html resumenSoftware.txt
 touch comandos.txt
 history
+git add .
+git status
+git commit -m "Se ha realizado la modificacion de los archivos main.js y index.html, y se ha creado el archivo comandos. txt"
+git push origin main
+history
